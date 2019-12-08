@@ -86,7 +86,7 @@
 </div>
 
      
-<?php comments_template('', true); ?>
+<?php //comments_template('', true); ?>
 
 
 <?php get_footer(); ?>
