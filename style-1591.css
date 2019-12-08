@@ -1,0 +1,71 @@
+.videogallery {
+  
+}
+
+.videohead {
+  font-weight: bolder;
+  color: #2b2a2a;
+  padding: 0;
+  width: 100%;
+  height: 36px;
+  font-size: 50px;
+  line-height: 39px;
+  background-color: #d6d6d6;
+}
+
+.videotitle {
+  padding: 0;
+  margin:0;
+  vertical-align:top;
+}
+
+.videobox {
+  margin:10px 0;
+}
+
+.videomenu {
+  margin:0;
+  float: left;
+  width: 326px;
+}
+
+.videomenu ul {
+  padding:0px;
+  margin:0px;
+}
+
+.videomenu li {
+  color: #161616;
+  background-color: #3d3c42;
+  list-style: none;
+  font-size: 22px;
+  margin: 0 0 11px 0px;
+  padding: 10px;
+  border-radius: 0 20px 20px 0;
+  text-align:right;
+}
+
+.selected {
+  background-color:#d6d6d6 !important;
+  color:#b6a7a7 !important;
+}
+
+.videodescription {
+  font-size: 20px;
+  padding-left: 9px;
+  color: #cbbaba;
+  float: left;
+  /* width: 100%; */
+  margin: 5px;
+  
+}
+
+
+.videoelement {
+  float:right;
+  border-radius:30px 0 0 30px;
+}
+
+.clear {
+  clear:both;
+}
